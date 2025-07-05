@@ -1,0 +1,11 @@
+username,password
+testuser1,password123
+admin,admin123
+user@example.com,mypassword
+johndoe,johndoe123
+testaccount,test@2024
+validuser,validpass
+invaliduser,wrongpass
+emptyuser,
+,emptypassword
+demo,demopass

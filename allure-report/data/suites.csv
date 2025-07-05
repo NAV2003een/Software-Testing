@@ -1,0 +1,88 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+This test:
+- Opens Google
+- Navigates to Wikipedia
+- Goes back
+- Goes forward
+- Refreshes the page
+- Prints current URL
+","17785","Browser Navigation Test","","Fri Jul 04 15:59:15 IST 2025","passed","Fri Jul 04 15:59:33 IST 2025","","test_navigation","",""
+"This test launches Chrome, opens Google.com, and verifies the page title.","5460","Open Google Homepage","","Fri Jul 04 15:58:23 IST 2025","passed","Fri Jul 04 15:58:29 IST 2025","","test_google","",""
+"
+This test:
+- Opens https://demoqa.com/automation-practice-form
+- Fills out form fields: first name, last name, email, number, DOB
+- Selects Male gender
+- Takes screenshots at key points
+","24540","DemoQA Practice Form Automation Test","","Fri Jul 04 15:56:42 IST 2025","passed","Fri Jul 04 15:57:07 IST 2025","","test_demoqa_form","",""
+"
+This test:
+- Opens Google homepage
+- Searches for ""Amazon""
+- Submits the search
+- Verifies page title
+","11247","Google Search Test for 'Amazon'","","Fri Jul 04 15:58:29 IST 2025","passed","Fri Jul 04 15:58:40 IST 2025","","test_google_search","",""
+"
+Test handling of:
+- Simple Alert
+- Confirm Alert
+- Prompt Alert
+","16079","JavaScript Alerts Handling Test","","Fri Jul 04 15:58:40 IST 2025","passed","Fri Jul 04 15:58:56 IST 2025","","test_js_alerts","",""
+"
+This test:
+- Opens the JS Alerts demo page
+- Handles a simple alert
+- Handles a confirmation alert
+- Handles a prompt alert (entering text)
+- Asserts that the result messages are displayed correctly
+","19106","JavaScript Alerts Handling Test","","Fri Jul 04 15:58:56 IST 2025","passed","Fri Jul 04 15:59:15 IST 2025","","test_js_alerts_selector","",""
+"
+This test:
+- Opens Google
+- Opens Wikipedia in a new tab
+- Switches to Wikipedia tab and verifies the title
+- Closes Wikipedia tab and returns to Google
+","10960","Test Opening Multiple Browser Tabs","","Fri Jul 04 16:00:59 IST 2025","passed","Fri Jul 04 16:01:10 IST 2025","","test_window_tabs","",""
+"
+This test:
+- Opens https://practicetestautomation.com
+- Clicks each main menu link (Practice, Blog, Courses, Contact)
+- Verifies that the expected URL is opened
+","35175","Practice Test Automation Navigation Test","","Fri Jul 04 16:00:04 IST 2025","passed","Fri Jul 04 16:00:39 IST 2025","","test_practicetest_navigation","",""
+"
+Test navigation of main menu items on https://practicetestautomation.com/
+- Clicks 'Blog'
+- Clicks 'Contact'
+- Verifies correct redirection based on URL
+","30817","Practice Test Automation - Menu Navigation Test","","Fri Jul 04 15:59:33 IST 2025","passed","Fri Jul 04 16:00:04 IST 2025","","test_practicetest_nav","",""
+"
+This test:
+- Opens DemoQA login page
+- Reads user credentials from a CSV file
+- Enters username and password
+- Attempts login
+- Repeats for all rows in CSV
+","64483","DemoQA Login Test with CSV Data","","Fri Jul 04 15:57:07 IST 2025","passed","Fri Jul 04 15:58:11 IST 2025","","test_demoqa_login_csv","",""
+"
+This test:
+- Opens https://www.techlistic.com/p/selenium-practice-form.html
+- Fills in first name and last name fields
+- Takes screenshots at each step
+","20248","Techlistic Selenium Practice Form Automation","","Fri Jul 04 16:00:39 IST 2025","passed","Fri Jul 04 16:00:59 IST 2025","","test_techlistic_form","",""
+"
+This test:
+- Opens Google
+- Navigates to Wikipedia
+- Goes back
+- Goes forward
+- Refreshes the page
+- Prints current URL
+","1232","Browser Navigation Test","","Fri Jul 04 15:20:11 IST 2025","passed","Fri Jul 04 15:20:12 IST 2025","","","",""
+"
+Test performing drag-and-drop on https://jqueryui.com/droppable/
+- Navigate to page
+- Switch to iframe
+- Drag the draggable box into droppable box
+- Verify successful drop
+","11767","JQuery Drag and Drop Test","","Fri Jul 04 15:58:11 IST 2025","passed","Fri Jul 04 15:58:23 IST 2025","","test_dragdrop","",""
